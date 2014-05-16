@@ -5,4 +5,4 @@ A simple pair trader built with Python on Quantopian.com platform
 
 Run It
 =======
-Copy and paste the code into Quantopian.com editor, and run.
+Copy and paste the code into Quantopian.com editor, and run back-test.
